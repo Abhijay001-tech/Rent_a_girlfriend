@@ -54,8 +54,8 @@
     - Transactions
   
 ## Contract Details
-- **Contract Address**: [0x78463B25E45d8f76ba12bfD62C29d441Cd5794F8](https://xt4scan.ngd.network/address/0x78463B25E45d8f76ba12bfD62C29d441Cd5794F8)
-- **Network**: Neo X Testnet T4
+- **Contract Address**: [0x72F79C057A5f2Ab2E461452289ea787e5a21dE5f](https://xexplorer.neo.org/address/0x72F79C057A5f2Ab2E461452289ea787e5a21dE5f)
+- **Network**: Neo X Mainnet
 - **Currency Used**: GAS
 
 ## Images
